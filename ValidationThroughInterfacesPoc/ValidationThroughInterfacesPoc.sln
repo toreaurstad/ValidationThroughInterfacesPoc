@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationThroughInterfacesPoc", "ValidationThroughInterfacesPoc\ValidationThroughInterfacesPoc.csproj", "{30A4259A-9983-4006-AF60-E79812528F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationThroughInterfacesPoc.Test", "ValidationThroughInterfacesPoc.Test\ValidationThroughInterfacesPoc.Test.csproj", "{4FB3A720-DE31-487D-AAF8-F216A0E6F9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A4259A-9983-4006-AF60-E79812528F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A4259A-9983-4006-AF60-E79812528F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A4259A-9983-4006-AF60-E79812528F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A4259A-9983-4006-AF60-E79812528F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB3A720-DE31-487D-AAF8-F216A0E6F9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB3A720-DE31-487D-AAF8-F216A0E6F9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB3A720-DE31-487D-AAF8-F216A0E6F9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB3A720-DE31-487D-AAF8-F216A0E6F9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F08F7531-2C60-45A6-B5D5-3ABA8C6DFD55}
+	EndGlobalSection
+EndGlobal
